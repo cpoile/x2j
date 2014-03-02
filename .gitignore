@@ -1,5 +1,12 @@
-lib
-classes
-.lein*
-*.jar
 pom.xml
+*jar
+.nrepl-port
+/classes/
+/.lein-deps-sum
+/.lein-failures
+/.lein-env
+/checkouts
+/.env
+/target
+/.lein-repl-history
+/repo
